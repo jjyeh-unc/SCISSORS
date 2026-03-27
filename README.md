@@ -20,7 +20,7 @@ BioRxiv](https://doi.org/10.1101/2021.10.29.466448).
 You can install the most recent version of `SCISSORS` with:
 
 ``` r
-remotes::install_github("jr-leary7/SCISSORS")
+remotes::install_github("jjyeh-unc/SCISSORS")
 ```
 
 # Usage
